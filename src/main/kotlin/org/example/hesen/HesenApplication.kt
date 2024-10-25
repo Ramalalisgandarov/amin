@@ -10,4 +10,5 @@ fun main(args: Array<String>) {
     runApplication<HesenApplication>(*args)
     println("555")
     println('4')
+    println("5")
 }
