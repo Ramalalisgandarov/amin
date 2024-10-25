@@ -8,5 +8,6 @@ class HesenApplication
 
 fun main(args: Array<String>) {
     runApplication<HesenApplication>(*args)
-    println("55")
+    println("555")
+    println('4')
 }
